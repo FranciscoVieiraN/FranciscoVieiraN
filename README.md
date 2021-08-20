@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Oi, sou o Francisco Vieira
+<div>
+  <a href="https://github.com/FranciscoVieiraN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoVieiraN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoVieiraN&layout=compact&langs_count=16&theme=dark"/>
+</div>
